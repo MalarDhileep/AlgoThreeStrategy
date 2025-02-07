@@ -15,9 +15,7 @@ from closure import close_all_positions
 
 # Account credentials
 login = 189667611
-# login = 186424590
 password = "Malar@96"
-# server = "Exness-MT5Real26"
 server = "Exness-MT5Trial14"
 
 # initialize_mt5(login, password, server)
